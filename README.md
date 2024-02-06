@@ -1,7 +1,7 @@
 <h1 align="center">Olá mundo👋, Eu sou o João Gomes mas podem me chamar como @gomaof</h1><h3 align="center">Software Engineer</h3>
 
 
-• 🌱 Atualmente estou aprendendo **Language C, python and Machine Learning**
+• 🌱 Atualmente estou aprendendo **Language C, python, Dev.Web, Ciber Security and Machine Learning**
 
 • 📫 Você me acha através do e-mail  **joaojhfgfire@gmail.com**
 
