@@ -3,7 +3,7 @@
 
 • 🌱 Atualmente estou aprendendo **Language C, python, Dev.Web, Ciber Security and Machine Learning**
 
-• 📫 Você me acha através do e-mail  **joaojhfgfire@gmail.com**
+• 📫 Você me acha através do e-mail  **joaogomes.dms@gmail.com**
 
 
 
