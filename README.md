@@ -8,9 +8,9 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gomaof&theme=algolia&show_icons=true&center=true&Center=true&hide=stars&hide_title=true)
 </div>
 
-<div align="center"> 
-  
 ## Conecte-se comigo
+<div align="center"> 
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaogomess/)[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gomaof)
 </div>
 
