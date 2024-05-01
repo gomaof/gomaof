@@ -1,18 +1,31 @@
-<h1 align="center">Olá mundo👋, Eu sou o João Gomes mas podem me chamar como @gomaof</h1><h3 align="center">Software Engineer</h3>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&color=F7F7F7&background=70F6FF00&random=false&width=435&lines=Ol%C3%A1+mundo%F0%9F%91%8B;Hello+World%F0%9F%91%8B)](https://git.io/typing-svg)
+<h1 align="center"> |⭐| Meu nome é João |⭐|</h1><h3 align="center">Sou estudante de <u><i><strong>Engenharia de Software<strong><i><u></h3>
+<br>
 
+## GitHub Stats
+<div align="center">  
+  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gomaof&theme=algolia&show_icons=true&center=true&Center=true&hide=stars&hide_title=true)
+</div>
 
-• 🌱 Atualmente estou aprendendo **Language C, python, Dev.Web, Ciber Security and Machine Learning**
+<div align="center"> 
+  
+## Conecte-se comigo
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaogomess/)[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gomaof)
+</div>
 
-• 📫 Você me acha através do e-mail  **joaogomes.dms@gmail.com**
+## Habilidades
+<div align="center">
+  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+</div>
 
-
-
-<h3 align="left">
-
-
-Connect with me: </h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/joaogomess/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/joaogomess/" height="30" width="40" /></a></p>
+## Tecnologias
+<div align="center">
+  
+![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=FCC624)![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0)
+![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+</div>
 
 
 
